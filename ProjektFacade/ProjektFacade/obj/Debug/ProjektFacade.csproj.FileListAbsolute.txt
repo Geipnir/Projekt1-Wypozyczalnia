@@ -1,0 +1,8 @@
+C:\Users\kalin\source\repos\ProjektFacade\ProjektFacade\bin\Debug\ProjektFacade.exe.config
+C:\Users\kalin\source\repos\ProjektFacade\ProjektFacade\bin\Debug\ProjektFacade.exe
+C:\Users\kalin\source\repos\ProjektFacade\ProjektFacade\bin\Debug\ProjektFacade.pdb
+C:\Users\kalin\source\repos\ProjektFacade\ProjektFacade\obj\Debug\ProjektFacade.csproj.AssemblyReference.cache
+C:\Users\kalin\source\repos\ProjektFacade\ProjektFacade\obj\Debug\ProjektFacade.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalin\source\repos\ProjektFacade\ProjektFacade\obj\Debug\ProjektFacade.csproj.CoreCompileInputs.cache
+C:\Users\kalin\source\repos\ProjektFacade\ProjektFacade\obj\Debug\ProjektFacade.exe
+C:\Users\kalin\source\repos\ProjektFacade\ProjektFacade\obj\Debug\ProjektFacade.pdb
