@@ -1,0 +1,16 @@
+C:\Users\jacko\source\repos\Adapter\Adapter\obj\Debug\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\jacko\source\repos\Adapter\Adapter\obj\Debug\AdapterPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacko\source\repos\Adapter\Adapter\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\jacko\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\jacko\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\jacko\source\repos\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\jacko\source\repos\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\jacko\source\repos\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\kalin\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\kalin\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\kalin\source\repos\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\kalin\source\repos\Adapter\Adapter\obj\Debug\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\kalin\source\repos\Adapter\Adapter\obj\Debug\AdapterPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\kalin\source\repos\Adapter\Adapter\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\kalin\source\repos\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\kalin\source\repos\Adapter\Adapter\obj\Debug\Adapter.pdb
