@@ -1,8 +1,0 @@
-C:\Users\kalin\source\repos\WypozyczalniaFactory\WypozyczalniaFactory\bin\Debug\WypozyczalniaFactory.exe.config
-C:\Users\kalin\source\repos\WypozyczalniaFactory\WypozyczalniaFactory\bin\Debug\WypozyczalniaFactory.exe
-C:\Users\kalin\source\repos\WypozyczalniaFactory\WypozyczalniaFactory\bin\Debug\WypozyczalniaFactory.pdb
-C:\Users\kalin\source\repos\WypozyczalniaFactory\WypozyczalniaFactory\obj\Debug\WypozyczalniaFactory.csproj.AssemblyReference.cache
-C:\Users\kalin\source\repos\WypozyczalniaFactory\WypozyczalniaFactory\obj\Debug\WypozyczalniaFactory.csproj.SuggestedBindingRedirects.cache
-C:\Users\kalin\source\repos\WypozyczalniaFactory\WypozyczalniaFactory\obj\Debug\WypozyczalniaFactory.csproj.CoreCompileInputs.cache
-C:\Users\kalin\source\repos\WypozyczalniaFactory\WypozyczalniaFactory\obj\Debug\WypozyczalniaFactory.exe
-C:\Users\kalin\source\repos\WypozyczalniaFactory\WypozyczalniaFactory\obj\Debug\WypozyczalniaFactory.pdb
