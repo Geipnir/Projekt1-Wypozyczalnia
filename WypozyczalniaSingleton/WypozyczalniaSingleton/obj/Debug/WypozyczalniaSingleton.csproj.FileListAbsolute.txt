@@ -1,8 +1,0 @@
-C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.exe.config
-C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.exe
-C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\bin\Debug\WypozyczalniaSingleton.pdb
-C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.AssemblyReference.cache
-C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.SuggestedBindingRedirects.cache
-C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.csproj.CoreCompileInputs.cache
-C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.exe
-C:\Users\kalin\source\repos\WypozyczalniaSingleton\WypozyczalniaSingleton\obj\Debug\WypozyczalniaSingleton.pdb
